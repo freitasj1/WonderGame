@@ -15,7 +15,8 @@ Legacy educational embedded systems project developed and presented during the *
 
 # Overview
 
-Wonder Game is an accessibility-oriented quiz game designed for visually impaired users.  
+
+The name "Wonder Game" was inspired by the musician Stevie Wonder, referencing both his cultural impact and his representation as a visually impaired artist.
 The project was developed and presented during the **42nd PROJETE**, the traditional technology and project exhibition organized by **ETE FMC (Escola Técnica de Eletrônica Francisco Moreira da Costa)**.
 
 The system was designed to provide an accessible gaming experience through audio interaction and tactile controls, allowing users to answer questions without relying on visual interfaces.
